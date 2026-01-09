@@ -3,4 +3,4 @@
 var nome = 'Cauã';
 var nome = 'Alves';
 
-console.log(nome);
+console.log();
